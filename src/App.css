@@ -5,6 +5,9 @@
   --main-font-color: #000000;
   --secondary-font-color: #393939;
   --main-btn-color: #b9a0ff;
+  --full-width: 100vw;
+  --desktop-width: 1440px;
+  --body-font: Arial, Helvetica, sans-serif;
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
