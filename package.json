@@ -1,6 +1,7 @@
 {
   "name": "cranbery",
   "version": "0.1.0",
+  "homepage": "http://akinevans.github.io/cranbery",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
