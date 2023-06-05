@@ -68,12 +68,15 @@
   font-family: var(--body-font);
   color: var(--secondary-font-color);
   font-size: 1.2rem;
-  transition: all 0.2s ease-out;
+  text-decoration: none;
+  transition: all 0.2s ease;
 }
 
-.nav-link:hover {
+.nav-link:hover,
+.call-to-action-wrapper a:hover {
+  text-underline-offset: 0.2rem;
   text-decoration: underline;
-  transition: all 1.2s ease-out;
+  transition: all 0.2s ease;
 }
 
 .call-to-action-wrapper {

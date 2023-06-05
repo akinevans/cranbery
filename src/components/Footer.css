@@ -1,0 +1,17 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+  width: var(--desktop-width);
+  height: fit-content;
+  /* outline: 2px solid red; */
+}
+
+.credit {
+  font-size: 0.9rem;
+  font-family: var(--body-font);
+  color: var(--main-font-color);
+  opacity: 40%;
+  text-decoration: none;
+  cursor: pointer;
+}

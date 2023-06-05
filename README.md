@@ -1,3 +1,7 @@
+### UI Design by Mahid Ahmed on Dribbble [GitHub Pages](https://dribbble.com/mahid_uxi).
+
+![Cranbery Image](./src/assets/images/cranbery.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

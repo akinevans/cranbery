@@ -20,9 +20,9 @@
 
 .btn-small:hover,
 .btn-medium:hover {
-  color: var(--main-bg-color);
-  background-color: var(--main-font-color);
-  box-shadow: 5px 5px 0px var(--main-btn-color);
+  /* color: var(--main-bg-color); */
+  background-color: transparent;
+  /* box-shadow: 5px 5px 0px var(--main-btn-color); */
 }
 
 .btn-medium {
