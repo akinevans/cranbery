@@ -1,4 +1,4 @@
-### UI Design by Mahid Ahmed on Dribbble [GitHub Pages](https://dribbble.com/mahid_uxi).
+### UI Design by [Mahid Ahmed on Dribbble](https://dribbble.com/mahid_uxi).
 
 ![Cranbery Image](./src/assets/images/cranbery.png)
 
