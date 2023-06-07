@@ -8,6 +8,7 @@
   height: 1.8rem;
   padding: 0.5rem;
   border: 1px solid var(--main-font-color);
+  border-right: none;
   border-radius: none;
   outline: none;
 }
