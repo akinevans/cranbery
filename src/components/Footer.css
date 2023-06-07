@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   margin-top: 3rem;
-  width: var(--desktop-width);
+  width: var(--full-width);
   height: fit-content;
   /* outline: 2px solid red; */
 }
